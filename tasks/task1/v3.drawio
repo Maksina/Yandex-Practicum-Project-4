@@ -1,0 +1,92 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36" version="28.2.9">
+  <diagram name="Page-1" id="-H_mtQnk-PTXWXPvYvuk">
+    <mxGraphModel dx="2066" dy="1137" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="leV3jEpw1uQe1MxFB08X-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="40" width="700" height="580" as="geometry" />
+        </mxCell>
+        <mxCell id="0HeGwAGCP5YsVFZnjVkV-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="440" y="200" width="270" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="5HyuEr5D6tnxoLRruOPe-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;" parent="1" source="zA23MoTUsTF4_91t8viU-3" target="5HyuEr5D6tnxoLRruOPe-4" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="240" y="270" />
+              <mxPoint x="240" y="410" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zA23MoTUsTF4_91t8viU-3" value="pymongo-api" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="70" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5HyuEr5D6tnxoLRruOPe-1" value="&lt;span style=&quot;color: rgba(0, 0, 0, 0.85); font-family: Menlo, &amp;quot;Ubuntu Mono&amp;quot;, consolas, source-code-pro, monospace; font-size: 14px; text-align: start; white-space: pre;&quot;&gt;configSrv &lt;/span&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" parent="1" vertex="1">
+          <mxGeometry x="280" y="504" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="0HeGwAGCP5YsVFZnjVkV-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="5HyuEr5D6tnxoLRruOPe-2" target="0HeGwAGCP5YsVFZnjVkV-3" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0HeGwAGCP5YsVFZnjVkV-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="5HyuEr5D6tnxoLRruOPe-2" target="0HeGwAGCP5YsVFZnjVkV-4" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5HyuEr5D6tnxoLRruOPe-2" value="&lt;span style=&quot;color: rgba(0, 0, 0, 0.85); font-family: Menlo, &amp;quot;Ubuntu Mono&amp;quot;, consolas, source-code-pro, monospace; font-size: 14px; text-align: start; white-space: pre;&quot;&gt;shard1-1&lt;/span&gt;&lt;div style=&quot;text-align: start;&quot;&gt;&lt;font color=&quot;rgba(0, 0, 0, 0.85)&quot; face=&quot;Menlo, Ubuntu Mono, consolas, source-code-pro, monospace&quot;&gt;&lt;span style=&quot;font-size: 14px; white-space: pre;&quot;&gt;(primary)&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" parent="1" vertex="1">
+          <mxGeometry x="470" y="260" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="5HyuEr5D6tnxoLRruOPe-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;" parent="1" source="5HyuEr5D6tnxoLRruOPe-4" target="5HyuEr5D6tnxoLRruOPe-1" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0HeGwAGCP5YsVFZnjVkV-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="5HyuEr5D6tnxoLRruOPe-4" target="0HeGwAGCP5YsVFZnjVkV-1" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0HeGwAGCP5YsVFZnjVkV-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="5HyuEr5D6tnxoLRruOPe-4" target="0HeGwAGCP5YsVFZnjVkV-6" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5HyuEr5D6tnxoLRruOPe-4" value="&lt;div&gt;&lt;span style=&quot;color: rgba(0, 0, 0, 0.85); font-family: Menlo, &amp;quot;Ubuntu Mono&amp;quot;, consolas, source-code-pro, monospace; font-size: 14px; text-align: start; white-space: pre;&quot;&gt;mongos_router&lt;/span&gt;&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" parent="1" vertex="1">
+          <mxGeometry x="280" y="370" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="0HeGwAGCP5YsVFZnjVkV-2" value="shard1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="440" y="200" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="0HeGwAGCP5YsVFZnjVkV-3" value="&lt;span style=&quot;color: rgba(0, 0, 0, 0.85); font-family: Menlo, &amp;quot;Ubuntu Mono&amp;quot;, consolas, source-code-pro, monospace; font-size: 14px; text-align: start; white-space: pre;&quot;&gt;shard1-2&lt;/span&gt;&lt;div style=&quot;text-align: start;&quot;&gt;&lt;font color=&quot;rgba(0, 0, 0, 0.85)&quot; face=&quot;Menlo, Ubuntu Mono, consolas, source-code-pro, monospace&quot;&gt;&lt;span style=&quot;font-size: 14px; white-space: pre;&quot;&gt;(secondary)&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" parent="1" vertex="1">
+          <mxGeometry x="600" y="210" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="0HeGwAGCP5YsVFZnjVkV-4" value="&lt;span style=&quot;color: rgba(0, 0, 0, 0.85); font-family: Menlo, &amp;quot;Ubuntu Mono&amp;quot;, consolas, source-code-pro, monospace; font-size: 14px; text-align: start; white-space: pre;&quot;&gt;shard1-3&lt;/span&gt;&lt;div style=&quot;text-align: start;&quot;&gt;&lt;font color=&quot;rgba(0, 0, 0, 0.85)&quot; face=&quot;Menlo, Ubuntu Mono, consolas, source-code-pro, monospace&quot;&gt;&lt;span style=&quot;font-size: 14px; white-space: pre;&quot;&gt;(secondary)&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" parent="1" vertex="1">
+          <mxGeometry x="600" y="300" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="0HeGwAGCP5YsVFZnjVkV-6" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="440" y="400" width="270" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="0HeGwAGCP5YsVFZnjVkV-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="0HeGwAGCP5YsVFZnjVkV-7" target="0HeGwAGCP5YsVFZnjVkV-9" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0HeGwAGCP5YsVFZnjVkV-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="0HeGwAGCP5YsVFZnjVkV-7" target="0HeGwAGCP5YsVFZnjVkV-10" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0HeGwAGCP5YsVFZnjVkV-7" value="&lt;span style=&quot;color: rgba(0, 0, 0, 0.85); font-family: Menlo, &amp;quot;Ubuntu Mono&amp;quot;, consolas, source-code-pro, monospace; font-size: 14px; text-align: start; white-space: pre;&quot;&gt;shard2-1&lt;/span&gt;&lt;div style=&quot;text-align: start;&quot;&gt;&lt;font color=&quot;rgba(0, 0, 0, 0.85)&quot; face=&quot;Menlo, Ubuntu Mono, consolas, source-code-pro, monospace&quot;&gt;&lt;span style=&quot;font-size: 14px; white-space: pre;&quot;&gt;(primary)&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" parent="1" vertex="1">
+          <mxGeometry x="470" y="460" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="0HeGwAGCP5YsVFZnjVkV-8" value="shard2" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="440" y="400" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="0HeGwAGCP5YsVFZnjVkV-9" value="&lt;span style=&quot;color: rgba(0, 0, 0, 0.85); font-family: Menlo, &amp;quot;Ubuntu Mono&amp;quot;, consolas, source-code-pro, monospace; font-size: 14px; text-align: start; white-space: pre;&quot;&gt;shard2-2&lt;/span&gt;&lt;div style=&quot;text-align: start;&quot;&gt;&lt;font color=&quot;rgba(0, 0, 0, 0.85)&quot; face=&quot;Menlo, Ubuntu Mono, consolas, source-code-pro, monospace&quot;&gt;&lt;span style=&quot;font-size: 14px; white-space: pre;&quot;&gt;(secondary)&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" parent="1" vertex="1">
+          <mxGeometry x="600" y="410" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="0HeGwAGCP5YsVFZnjVkV-10" value="&lt;span style=&quot;color: rgba(0, 0, 0, 0.85); font-family: Menlo, &amp;quot;Ubuntu Mono&amp;quot;, consolas, source-code-pro, monospace; font-size: 14px; text-align: start; white-space: pre;&quot;&gt;shard2-3&lt;/span&gt;&lt;div style=&quot;text-align: start;&quot;&gt;&lt;font color=&quot;rgba(0, 0, 0, 0.85)&quot; face=&quot;Menlo, Ubuntu Mono, consolas, source-code-pro, monospace&quot;&gt;&lt;span style=&quot;font-size: 14px; white-space: pre;&quot;&gt;(secondary)&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" parent="1" vertex="1">
+          <mxGeometry x="600" y="500" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="leV3jEpw1uQe1MxFB08X-1" value="redis" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="290" y="60" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="leV3jEpw1uQe1MxFB08X-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="zA23MoTUsTF4_91t8viU-3" target="leV3jEpw1uQe1MxFB08X-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="240" y="250" />
+              <mxPoint x="240" y="100" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
