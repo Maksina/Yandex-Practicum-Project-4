@@ -1,4 +1,4 @@
-# mongo-sharding-repl
+# sharding-repl-cache
 
 ## Как запустить
 
@@ -16,7 +16,7 @@ docker compose up -d
 
 ## Как проверить
 
-Проверка количества документов в БД и репликаций
+Проверка количества документов в БД
 
 ```shell
 ./scripts/check.sh
