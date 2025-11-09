@@ -19,5 +19,5 @@ docker compose up -d
 Проверка количества документов в БД
 
 ```shell
-./scripts/init.sh
+./scripts/check.sh
 ```
