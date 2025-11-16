@@ -14,6 +14,7 @@
 
 ## Задания 1-6
 [sharding-repl-cache](https://github.com/Maksina/Yandex-Practicum-Project-4/tree/MobileWorld/tasks/task4)
+[Итоговая схема](https://github.com/Maksina/Yandex-Practicum-Project-4/tree/MobileWorld/tasks/task6)
 
 ## Задания 7-10
 [Единый архитектурный документ](https://github.com/Maksina/Yandex-Practicum-Project-4/tree/MobileWorld/tasks/ADR(7-10).md)
